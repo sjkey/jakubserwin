@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=askeda&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askeda&layout=compact&exclude_repo=university-courses,Practice)](https://github.com/anuraghazra/github-readme-stats)
-
 #### My 2025 Stack
 ![Nuxtjs](https://img.shields.io/badge/nuxt-00C58E?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
