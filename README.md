@@ -1,6 +1,5 @@
 ## Hi! Nice to see you. 👋
 
-![](https://komarev.com/ghpvc/?username=jakubserwin&style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=askeda&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askeda&layout=compact&exclude_repo=university-courses,Practice)](https://github.com/anuraghazra/github-readme-stats)
